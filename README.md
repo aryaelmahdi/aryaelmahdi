@@ -19,4 +19,4 @@
 
 ## 📫 How to reach me:
 - Email: [praba.elmahdi@gmail.com](mailto:praba.elmahdi@gmail)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/prabarya)
+- LinkedIn: [Praba Arya](https://linkedin.com/in/prabarya)
