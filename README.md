@@ -6,8 +6,8 @@
 - Git, Docker, GCP
   
 ## 📈 GitHub Stats
-<a href="https://github.com/aryaelmahdi">
-  <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryaelmahdi&theme=aura"/>
+<a href="https://github.com/riyanatsil">
+  <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riyanatsil&theme=aura"/>
 </a><br/>
 <a href="https://github.com/aryaelmahdi">
    <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryaelmahdi&theme=aura"/>
