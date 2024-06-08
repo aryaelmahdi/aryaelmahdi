@@ -6,6 +6,7 @@
 - Git, Docker, GCP
   
 ## 📈 GitHub Stats
+<p align="center">
 <a href="https://github.com/aryaelmahdi">
   <img height="225em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryaelmahdi&theme=aura"/>
 </a><br/>
