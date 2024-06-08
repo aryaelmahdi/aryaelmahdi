@@ -1,7 +1,7 @@
 # Hi there, Arya here 👋
 
 ## 🔧 Technologies & Tools
-- JavaScript, Python, Java, Go, CPP
+- JavaScript, Python, Java, Go, CPP, PHP
 - Flask, Echo
 - Git, Docker, GCP
   
